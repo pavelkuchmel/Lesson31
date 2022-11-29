@@ -1,0 +1,16 @@
+нояб. 29, 2022 8:47:40 ПП com.company.FileTest createFile
+INFO: Создан тестовый файл.
+нояб. 29, 2022 8:47:52 ПП com.company.FileTest createFile
+INFO: Файл существует.
+нояб. 29, 2022 8:59:42 ПП com.company.FileTest createFile
+INFO: Файл существует.
+нояб. 29, 2022 9:00:14 ПП com.company.FileTest createFile
+INFO: Файл существует.
+нояб. 29, 2022 9:01:51 ПП com.company.FileTest createFile
+INFO: Файл существует.
+нояб. 29, 2022 9:02:03 ПП com.company.FileTest createFile
+INFO: Файл существует.
+нояб. 29, 2022 9:07:05 ПП com.company.FileTest createFile
+INFO: Файл существует.
+нояб. 29, 2022 9:08:51 ПП com.company.FileTest createFile
+INFO: Файл существует.
